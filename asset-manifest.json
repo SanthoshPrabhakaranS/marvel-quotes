@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/marvel-quotes/static/css/main.82ce49c6.css",
+    "main.js": "/marvel-quotes/static/js/main.fa4fa2c0.js",
+    "index.html": "/marvel-quotes/index.html",
+    "main.82ce49c6.css.map": "/marvel-quotes/static/css/main.82ce49c6.css.map",
+    "main.fa4fa2c0.js.map": "/marvel-quotes/static/js/main.fa4fa2c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82ce49c6.css",
+    "static/js/main.fa4fa2c0.js"
+  ]
+}
